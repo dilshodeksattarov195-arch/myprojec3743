@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderepdate",
+        "uuid": 7437341,
+        "checksum": "hrde2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
